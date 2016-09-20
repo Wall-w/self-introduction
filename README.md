@@ -1,2 +1,2 @@
 # self-introduction
-introduce muself by Markdown
+introduce myself by Markdown
